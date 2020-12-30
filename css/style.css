@@ -1385,3 +1385,7 @@ h1, h2, h3, h4, h5,
 .custom-pagination span {
   background: #e6e6e6;
   color: #000; }
+
+footer {
+  background-color: #14405D !important;
+}
