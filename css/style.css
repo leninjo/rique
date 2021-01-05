@@ -150,11 +150,11 @@ h1, h2, h3, h4, h5,
   .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
   .site-footer p {
-    color: #737373; }
+    color: #BFC9CA; }
   .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
     color: #fff; }
   .site-footer a {
-    color: #999999; }
+    color: #D5DBDB; }
     .site-footer a:hover {
       color: white; }
   .site-footer ul li {
@@ -1052,7 +1052,7 @@ h1, h2, h3, h4, h5,
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #999999; }
+  color: #D5DBDB; }
 
 .block-25 ul li a .meta {
   color: #3498DB; }
